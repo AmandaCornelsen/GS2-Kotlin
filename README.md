@@ -1,5 +1,10 @@
 # GS2-Kotlin
 
+## Integrantes
+Amanda Cornelsen Carbone - RM97760
+
+Vinicius Ferreira Shuet - RM98160
+
 <img width="325" height="550" alt="image" src="https://github.com/user-attachments/assets/908b1349-2867-4a44-96ea-1c7d9af7e5c0" />
 <img width="275" height="557" alt="image" src="https://github.com/user-attachments/assets/a86b18f6-1971-4d4c-ad73-ccee467899d6" />
 <img width="279" height="550" alt="image" src="https://github.com/user-attachments/assets/73a4adaa-930d-4196-ba30-18e8e0d6c82c" />
