@@ -1,5 +1,7 @@
 # GS2-Kotlin
 
+link: https://github.com/AmandaCornelsen/GS2-Kotlin.git
+
 ## Integrantes
 Amanda Cornelsen Carbone - RM97760
 
